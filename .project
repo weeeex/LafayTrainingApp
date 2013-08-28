@@ -10,6 +10,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>com.aptana.ide.core.unifiedBuilder</name>
 			<arguments>
@@ -20,5 +21,10 @@
 		<nature>com.appcelerator.titanium.alloy.core.nature</nature>
 		<nature>com.appcelerator.titanium.mobile.nature</nature>
 		<nature>com.aptana.projects.webnature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>com.appcelerator.titanium.alloy.core.nature</nature>
+>>>>>>> 5128d80b10a18b9ca8b2dd88e852ba5a63833c17
 	</natures>
 </projectDescription>
